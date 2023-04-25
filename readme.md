@@ -6,6 +6,7 @@ Construindo um aplicativo de tarefas com React Native. Esse projeto foi uma ampl
 
 Foram adicionados os seguintes recursos ao projeto:
 
+- Projeto reescrito utilizando TypeScript;
 - Alerta para notificar o usuário que o campo de cadastro está vazio;
 - Alerta para exibir item selecionado, com ações que possibilitem o usuário cancelar ou excluir tarefa.
 
