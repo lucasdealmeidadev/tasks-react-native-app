@@ -1,6 +1,6 @@
 # App Tasks
 
-![Preview](https://github.com/lucasdealmeidadev/tasks-react-native-app/blob/main/banner.jpg?raw=true | width=200)
+![Preview](https://github.com/lucasdealmeidadev/tasks-react-native-app/blob/main/banner.jpg?raw=true)
 
 Construindo um aplicativo de tarefas com React Native. Esse projeto foi uma ampliação da aula ministrada por **Matheus Fraga** no treinamento **Full Stack**.
 
